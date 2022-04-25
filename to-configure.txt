@@ -1,0 +1,33 @@
+VsCode
+Flameshot
+telegram
+thunderbird
+chrome, chromium, firefox esr
+git
+nano
+docker + compose + swarm
+aws cli
+terraform
+aws-vault
+teams/ferdi
+swap
+jdk
+maven
+sbt
+spotify
+clipboard history (gpaste)
+powermanagement config
+intelliJ community, Ultimate + pycharm, rider
+terminator
+
+
+
+
+Postman
+DBeaver
+htop
+TlpUI
+Authy
+robo3t
+redshift
+slack?
