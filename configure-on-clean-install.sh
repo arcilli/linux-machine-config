@@ -44,6 +44,8 @@ docker run hello-world
 
 
 # docker compose setup
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
 
 # docker swarm setup
 
@@ -85,6 +87,17 @@ sudo snap install spotify
 # gpaste
 sudo apt-get install -y gpaste
 
+
+# dbeaver
+sudo snap install dbeaver-ce
+sudo snap install postman
+
+# robo3t
+sudo snap install robo3t-snap
+
+# redshift
+sudo apt update
+sudo apt install -y redshift redshift-gtk
 
 
 # slack

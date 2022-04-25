@@ -19,15 +19,12 @@ clipboard history (gpaste)
 powermanagement config
 intelliJ community, Ultimate + pycharm, rider
 terminator
-
-
-
-
+htop
 Postman
 DBeaver
-htop
-TlpUI
-Authy
 robo3t
 redshift
 slack?
+
+Authy
+TlpUI
