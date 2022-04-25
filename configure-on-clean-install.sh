@@ -39,8 +39,6 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io
 # both
 sudo groupadd docker
 sudo usermod -aG docker $USER
-newgrp docker 
-docker run hello-world
 
 
 # docker compose setup
@@ -103,4 +101,5 @@ sudo apt install -y redshift redshift-gtk
 # slack
 sudo snap install slack
 
-rm -rf ~/Downloads
+rm -rf ~/Downloads/*
+newgrp docker 
