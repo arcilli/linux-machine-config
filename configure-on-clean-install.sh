@@ -64,9 +64,9 @@ sudo chmod 755 /usr/local/bin/aws-vault
 
 # ferdi
 sudo snap install ferdi
+sudo apt install -y default-jdk
 sudo apt install -y maven
 mvn -version
-sudo apt install -y default-jdk
 
 
 # sbt +  scala
