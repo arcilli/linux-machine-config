@@ -1,4 +1,4 @@
-#!/bin/bash
+bin/bash
 sudo apt update && sudo apt upgrade -y
 
 sudo apt install -y snapd flameshot wget chromium-browser git unzip curl gnupg software-properties-common terminator htop nano fuse libfuse2 ca-certificates curl gnupg lsb-release
@@ -102,4 +102,7 @@ sudo apt install -y redshift redshift-gtk
 sudo snap install slack
 
 rm -rf ~/Downloads/*
-newgrp docker 
+newgrp docker
+
+
+# TODO: starUML
